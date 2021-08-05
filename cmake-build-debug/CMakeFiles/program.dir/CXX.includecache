@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+trainingdata.cpp
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/trainingdata.cpp
+model.cpp
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/model.cpp
+
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/model.cpp
+model.h
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/model.h
+cmath
+-
+algorithm
+-
+fstream
+-
+
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/model.h
+vector
+-
+
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/trainingdata.cpp
+trainingdata.h
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/trainingdata.h
+vector
+-
+sstream
+-
+
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/trainingdata.h
+vector
+-
+

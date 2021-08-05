@@ -1,0 +1,3 @@
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nisha/CLionProjects/naivebayes-nishantb15/cmake-build-debug/CMakeFiles/program.dir

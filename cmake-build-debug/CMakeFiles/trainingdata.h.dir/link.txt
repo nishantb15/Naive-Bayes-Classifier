@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/trainingdata.h.dir/trainingdata.cpp.o  -o trainingdata.h 
